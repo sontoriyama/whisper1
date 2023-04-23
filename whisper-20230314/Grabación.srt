@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:05,000
+Hola, probando, probando. No sé si estoy grabando con el nuevo micrófono.
+
+2
+00:00:05,000 --> 00:00:09,000
+A ver si grababa mejor con el anterior micrófono.
+
